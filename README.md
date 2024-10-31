@@ -182,6 +182,7 @@ onvif:
       hostname: 192.168.1.32                      # The Hostname of the RTSP stream
       ports:
         rtsp: 554                                 # The Port of the RTSP stream
+    hostname: 192.168.1.101                       # The ip adress of your current device
 ```
 
 You can either randomly change a few numbers of the UUID, or use a UUIDv4 generator[^3].
